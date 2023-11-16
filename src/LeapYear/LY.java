@@ -38,6 +38,6 @@ public class LY extends JFrame{
         app.setSize(200, 300);
         app.setDefaultCloseOperation(EXIT_ON_CLOSE);
         app.setVisible(true);
-        app.setTitle("Hello Meow");
+        app.setTitle("Leap Year Checker");
     }
 }
